@@ -9,17 +9,19 @@
 </p>
 
 <!-- Social Links -->
-<p align="center">
+<h2>🌐 Connect with Me</h2>
+
+<p>
   <a href="https://github.com/Lioswiz">
-    <img src="https://img.shields.io/badge/GitHub-Lioswiz-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/edache-john-ekoja">
-    <img src="https://img.shields.io/badge/LinkedIn-Edache%20John%20Ekoja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:edachejohnekoja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
 </p>
 
