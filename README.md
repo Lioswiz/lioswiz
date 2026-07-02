@@ -23,16 +23,35 @@
   </a>
 </p>
 
----
+<h2 align="center">👨‍💻 About Me</h2>
 
-# 👨‍💻 About Me
+<table align="center">
+<tr>
+<td>
 
-- 🔭 Building backend applications with **Go**
-- 🌱 Learning **AI Engineering**, **Cloud Computing**, and **System Design**
-- 💡 Passionate about solving real-world problems
-- 🎯 Goal: Become an AI-Native Backend Engineer
+🔭 <strong>Currently Building</strong><br>
+Backend applications with <strong>Go</strong>
 
----
+<br><br>
+
+🌱 <strong>Currently Learning</strong><br>
+AI Engineering<br>
+Cloud Computing<br>
+System Design
+
+<br><br>
+
+💡 <strong>Passionate About</strong><br>
+Solving real-world problems through software.
+
+<br><br>
+
+🎯 <strong>Goal</strong><br>
+Become an AI-Native Backend Engineer.
+
+</td>
+</tr>
+</table>
 
 # 🛠️ Tech Stack
 
