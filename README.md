@@ -1,23 +1,25 @@
-<!-- Animated Typing Header -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Edache+John+Ekoja;Backend+Developer;Go+Developer;AI+Enthusiast;Building+Scalable+Backend+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Edache%20John%20Ekoja&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0D1117,50:1F6FEB,100:58A6FF" />
 </p>
 
-<h3 align="center">
-Backend Developer • Go Developer • AI Enthusiast
-</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Go+Developer;AI+Enthusiast;Always+Learning+Something+New" />
+</p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Lioswiz">
-    <img src="https://img.shields.io/badge/GitHub-Lioswiz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Lioswiz-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/edache-john-ekoja">
-    <img src="https://img.shields.io/badge/LinkedIn-Edache_John_Ekoja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Edache%20John%20Ekoja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:edachejohnekoja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-edachejohnekoja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -25,61 +27,35 @@ Backend Developer • Go Developer • AI Enthusiast
 
 # 👨‍💻 About Me
 
-```go
-type Developer struct {
-    Name     string
-    Role     string
-    Language string
-    Learning []string
-}
-
-var me = Developer{
-    Name:     "Edache John Ekoja",
-    Role:     "Backend Developer",
-    Language: "Go"
-    Learning: []string{
-        "AI Engineering",
-        "Cloud Computing",
-        "System Design",
-    },
-}
-```
-
-- 🔭 Building scalable backend applications with **Go**
-- 🌱 Currently learning **AI Engineering**, **Cloud Computing**, and **System Design**
-- 💡 Passionate about backend engineering and solving real-world problems
-- 🎯 Goal: Become an **AI-Native Backend Engineer**
+- 🔭 Building backend applications with **Go**
+- 🌱 Learning **AI Engineering**, **Cloud Computing**, and **System Design**
+- 💡 Passionate about solving real-world problems
+- 🎯 Goal: Become an AI-Native Backend Engineer
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=go,python,js,html,css,git,github,docker,linux,postgres,mysql,vscode&perline=6" />
 </p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
+🥇 YOLO
 
-🥇 **YOLO**
-
-⚡ **Quickdraw**
-
-</p>
+⚡ Quickdraw
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lioswiz&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lioswiz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioswiz&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioswiz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +63,7 @@ var me = Developer{
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Lioswiz&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Lioswiz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,51 +71,19 @@ var me = Developer{
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lioswiz&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lioswiz&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** This image will appear after you set up the GitHub Action that generates it.
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Lioswiz/Lioswiz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Lioswiz">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/edache-john-ekoja">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="mailto:edachejohnekoja@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=Lioswiz&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lioswiz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-<h3 align="center">
-💙 Keep Learning • Keep Building • Keep Improving
-</h3>
-
-<p align="center">
-⭐ Thanks for visiting my profile!
+  <i>💙 Keep Learning • Keep Building • Keep Improving</i>
 </p>
