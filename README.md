@@ -63,23 +63,6 @@ Go • Python • JavaScript • HTML • CSS • Git • GitHub • Docker • 
   <img src="https://streak-stats.demolab.com?user=Lioswiz&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lioswiz&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lioswiz&style=for-the-badge&color=blueviolet" />
-</p>
-
----
 
 <p align="center">
   <i>💙 Keep Learning • Keep Building • Keep Improving</i>
