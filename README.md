@@ -41,27 +41,12 @@
 
 <p>
 <b>
-Go • Python • JavaScript • HTML • CSS • Git • GitHub • Docker • Linux • PostgreSQL • MySQL • VS Code
+
 </b>
 </p>
 
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lioswiz&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioswiz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lioswiz&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center">
