@@ -45,8 +45,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="assets/yolo.png" width="120" alt="YOLO Badge"/>
-  <img src="assets/quickdraw.png" width="120" alt="Quickdraw Badge"/>
+  <img src="https://skillicons.dev/icons?i=yolo,quickdraw" />
 </p>
 
 # 📊 GitHub Stats
