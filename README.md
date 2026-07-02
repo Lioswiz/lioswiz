@@ -9,19 +9,21 @@
 </p>
 
 <!-- Social Links -->
+
 <h2>🌐 Connect with Me</h2>
 
 <p>
 
-  <a href="https://www.linkedin.com/in/edache-john-ekoja" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/edache-john-ekoja">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
-<b></b>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:edachejohnekoja@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
 </p>
-
 <h2>🤵🏿‍♂️ About Me</h2>
 
 <ul>
