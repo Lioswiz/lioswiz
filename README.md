@@ -18,8 +18,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="mailto:edachejohnekoja@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
