@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="assets/banner.svg">
+<img src="assets/banner.svg">
 </p>
 
-# 👨‍💻 About Me
+<br>
 
 <p align="center">
-  <img src="assets/about.svg">
+<img src="assets/about.svg">
 </p>
 
-# 🛠 Tech Stack
+<br>
 
 <p align="center">
-  <img src="assets/techstack.svg">
+<img src="assets/techstack.svg">
 </p>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- stats cards -->
+...
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 YOLO
 
 ⚡ Quickdraw
 
 <p align="center">
-  <img src="assets/footer.svg">
+<img src="assets/footer.svg">
 </p>
